@@ -29,10 +29,6 @@
 # line. MODIFY THE FONTDIR AND MKVTOOLNIX VARIABLES AS DESIRED (important). You're good.
 # See Usage.
 #
-# .EXE FILE (COMMAND LINE)
-# Download zip file, save somewhere, and MODIFY FONTDIR AND MKVTOOLNIX IN INI FILE.
-# See Usage.
-#
 # .EXE FILE (GUI)
 # Download and use. Seriously, why are you reading this?
 #
@@ -40,7 +36,6 @@
 # USAGE ######
 # =====
 # .py file: exfont.py [mkv file or directory] [option]
-# .exe file (command line): exfont [mkv file or directory] [option]
 # (If no directory is entered, program will default to searching its own directory)
 # 
 # There is one option: -s will stop the program from searching subfolders
